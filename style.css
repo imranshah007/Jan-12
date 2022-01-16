@@ -1,0 +1,48 @@
+               body {
+				position: absolute;
+				right:50%;
+				text-align: center;
+				background-color:lightcoral;
+			}
+
+		
+
+			.container {
+				justify-content: center;
+				align-items: center;
+				display: flex;
+				height: 100%;
+				text-align: center;
+			}
+
+		
+
+			button {
+				width: 90px;
+				height: 60px;
+				font-size: 30px;
+				background-color: rgb(2, 180, 204);
+				color: honeydew;
+			}
+
+
+			button:hover {
+				background-color: rgb(70, 36, 4);
+				color: grey;
+			}
+
+		
+
+			h2 {
+				color: rgb(156, 57, 156);
+				margin: 0 50px;
+				font-size: 45px;
+			}
+			
+
+			h1 {
+				font-size: 35px;
+				color: rgb(226, 26, 0);
+				text-align: center;
+				padding-left: 10%;
+			}
