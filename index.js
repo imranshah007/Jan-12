@@ -12,6 +12,7 @@ function increment() {
 }
 
 function decrement() {
+	if(data=0) return;
 	data = data - 1;
 	document.getElementById("counting").innerText = data;
 }
